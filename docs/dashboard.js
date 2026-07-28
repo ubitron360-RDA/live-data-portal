@@ -23,7 +23,7 @@ function formatValue(value, unit) {
   return `${value.toLocaleString(undefined, { maximumFractionDigits: decimals })}`;
 }
 
-function renderPriceCard(series, colorVar) {
+function renderPriceCard(series) {
   const card = document.createElement("div");
   card.className = "price-card";
 
@@ -39,8 +39,21 @@ function renderPriceCard(series, colorVar) {
     <div class="change ${changeClass}">
       ${series.change_pct === null ? "no prior value" : `${changeSign}${series.change_pct}%`}
     </div>
-    <canvas></canvas>
     <div class="as-of">as of ${series.latest_date} &middot; ${series.source.toUpperCase()}</div>
+  `;
+
+  return card;
+}
+
+function renderChartCard(series, colorVar) {
+  const card = document.createElement("div");
+  card.className = "chart-card";
+  card.innerHTML = `
+    <div class="chart-header">
+      <span class="series-name">${series.name}</span>
+      <span class="series-meta">${series.unit} &middot; as of ${series.latest_date}</span>
+    </div>
+    <div class="chart-wrap"><canvas></canvas></div>
   `;
 
   const canvas = card.querySelector("canvas");
@@ -62,7 +75,10 @@ function renderPriceCard(series, colorVar) {
       responsive: true,
       maintainAspectRatio: false,
       animation: false,
-      scales: { x: { display: false }, y: { display: false } },
+      scales: {
+        x: { display: true, ticks: { color: cssVar("--text-muted"), maxTicksLimit: 6 }, grid: { color: cssVar("--gridline") } },
+        y: { display: true, ticks: { color: cssVar("--text-muted") }, grid: { color: cssVar("--gridline") } },
+      },
       plugins: { legend: { display: false }, tooltip: { enabled: true } },
     },
   });
@@ -103,12 +119,16 @@ async function main() {
 
   // --- prices ---
   const priceGrid = document.getElementById("priceGrid");
+  const chartStack = document.getElementById("chartStack");
   const series = prices?.series || [];
   if (series.length === 0) {
-    priceGrid.innerHTML = `<div class="empty-state">No price data yet. Run the ingestion pipeline (see README) with FRED_API_KEY / EIA_API_KEY set to populate this dashboard.</div>`;
+    const emptyMsg = `<div class="empty-state">No price data yet. Run the ingestion pipeline (see README) with FRED_API_KEY / EIA_API_KEY set to populate this dashboard.</div>`;
+    priceGrid.innerHTML = emptyMsg;
+    chartStack.innerHTML = emptyMsg;
   } else {
     series.forEach((s, i) => {
-      priceGrid.appendChild(renderPriceCard(s, SERIES_COLORS[i % SERIES_COLORS.length]));
+      priceGrid.appendChild(renderPriceCard(s));
+      chartStack.appendChild(renderChartCard(s, SERIES_COLORS[i % SERIES_COLORS.length]));
     });
   }
 
