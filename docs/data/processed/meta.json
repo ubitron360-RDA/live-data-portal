@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T19:57:58.255158+00:00",
+  "generated_at": "2026-07-28T20:06:57.244302+00:00",
   "sources": {
     "fred": {
-      "last_updated": null,
-      "available": false
+      "last_updated": "2026-07-28",
+      "available": true
     },
     "eia": {
-      "last_updated": null,
-      "available": false
+      "last_updated": "2026-07-28",
+      "available": true
     },
     "jodi": {
       "last_updated": "2026-07-28",
