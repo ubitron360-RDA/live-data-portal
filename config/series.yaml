@@ -1,0 +1,55 @@
+# Declarative list of tracked data. Add an entry here (and, for a new
+# category, one ingestion script) to extend the portal to a new series
+# or subject without touching existing code.
+
+prices:
+  fred:
+    api_base: "https://api.stlouisfed.org/fred/series/observations"
+    series:
+      - id: DCOILWTICO
+        name: "WTI Crude Oil"
+        unit: "USD/barrel"
+        frequency: daily
+      - id: DCOILBRENTEU
+        name: "Brent Crude Oil"
+        unit: "USD/barrel"
+        frequency: daily
+      - id: DHHNGSP
+        name: "Henry Hub Natural Gas"
+        unit: "USD/MMBtu"
+        frequency: daily
+      - id: PNGASEUUSDM
+        name: "Europe Natural Gas (TTF proxy)"
+        unit: "USD/MMBtu"
+        frequency: monthly
+
+  eia:
+    # Legacy v1 series IDs resolved via the v2 "seriesid" compatibility route:
+    # https://api.eia.gov/v2/seriesid/<id>?api_key=...
+    api_base: "https://api.eia.gov/v2/seriesid"
+    series:
+      - id: "PET.EMM_EPMR_PTE_NUS_DPG.W"
+        name: "US Regular Gasoline (retail, avg)"
+        unit: "USD/gallon"
+        frequency: weekly
+      - id: "PET.EMD_EPD2D_PTE_NUS_DPG.W"
+        name: "US Diesel (retail, avg)"
+        unit: "USD/gallon"
+        frequency: weekly
+
+flows:
+  jodi:
+    # Free bulk CSV, no API key required.
+    csv_url_template: "https://www.jodidata.org/_resources/files/downloads/oil-data/annual-csv/primary/{year}.csv"
+    product: TOTCRUDE
+    export_flow: TOTEXPSB
+    import_flow: TOTIMPSB
+    unit: KBD # thousand barrels per day - comparable across countries
+    top_n: 10
+
+  comtrade:
+    # Optional: requires a free subscription key from comtradedeveloper.un.org
+    # (COMTRADE_API_KEY). Skipped gracefully if the key isn't set.
+    api_base: "https://comtradeapi.un.org/data/v1/get/C/A/HS"
+    hs_code: "2709" # crude petroleum oils
+    period_lookback_months: 3

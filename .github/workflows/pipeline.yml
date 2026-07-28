@@ -1,0 +1,60 @@
+name: Data pipeline
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch: {} # allow manual "Run workflow" from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "ingestion/**"
+      - "transform/**"
+      - "config/**"
+      - ".github/workflows/pipeline.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run ingestion
+        working-directory: ingestion
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+          COMTRADE_API_KEY: ${{ secrets.COMTRADE_API_KEY }}
+        run: |
+          python fred.py
+          python eia.py
+          python jodi.py
+          python comtrade.py
+
+      - name: Run transform
+        working-directory: transform
+        run: |
+          python build_prices.py
+          python build_flows.py
+          python build_meta.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "data-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/raw docs/data/processed
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "Automated data refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-07-28T15:14:53.044049+00:00",
+  "sources": {
+    "fred": {
+      "last_updated": null,
+      "available": false
+    },
+    "eia": {
+      "last_updated": null,
+      "available": false
+    },
+    "jodi": {
+      "last_updated": "2026-07-28",
+      "available": true
+    },
+    "comtrade": {
+      "last_updated": null,
+      "available": false
+    }
+  }
+}

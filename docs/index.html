@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Global Energy &amp; Prices Portal</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div>
+        <h1>Global Energy &amp; Prices Portal</h1>
+        <p class="subtitle">Commodity benchmark prices and cross-border oil trade flows, refreshed automatically from public data.</p>
+      </div>
+      <button class="theme-toggle" id="themeToggle" type="button">Toggle theme</button>
+    </header>
+    <p class="generated-at" id="generatedAt"></p>
+
+    <section id="pricesSection">
+      <h2>Commodity Prices</h2>
+      <p class="section-note">Source: FRED, EIA. Updated daily/weekly depending on series.</p>
+      <div id="priceGrid" class="price-grid"></div>
+    </section>
+
+    <section id="flowsSection">
+      <h2>Crude Oil Trade Flows</h2>
+      <p class="section-note">Top exporting and importing countries by volume (thousand barrels/day). Source: JODI-Oil World Database. Updated monthly.</p>
+      <div id="flowsGrid" class="flows-grid"></div>
+    </section>
+
+    <footer class="meta" id="metaFooter"></footer>
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+{
+  "jodi": {
+    "product": "TOTCRUDE",
+    "unit": "KBD",
+    "top_exporters": [
+      {
+        "country_code": "SA",
+        "country": "Saudi Arabia",
+        "period": "2025-12",
+        "value": 6988.0
+      },
+      {
+        "country_code": "CA",
+        "country": "Canada",
+        "period": "2025-12",
+        "value": 4896.0319
+      },
+      {
+        "country_code": "US",
+        "country": "United States",
+        "period": "2025-12",
+        "value": 4510.2903
+      },
+      {
+        "country_code": "NO",
+        "country": "Norway",
+        "period": "2025-12",
+        "value": 1765.4716
+      },
+      {
+        "country_code": "KW",
+        "country": "Kuwait",
+        "period": "2025-12",
+        "value": 1466.0
+      },
+      {
+        "country_code": "NG",
+        "country": "Nigeria",
+        "period": "2025-12",
+        "value": 1206.0
+      },
+      {
+        "country_code": "DZ",
+        "country": "Algeria",
+        "period": "2025-12",
+        "value": 692.0
+      },
+      {
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "period": "2025-12",
+        "value": 550.0107
+      },
+      {
+        "country_code": "MX",
+        "country": "Mexico",
+        "period": "2025-12",
+        "value": 383.0023
+      },
+      {
+        "country_code": "AU",
+        "country": "Australia",
+        "period": "2025-12",
+        "value": 230.1342
+      }
+    ],
+    "top_importers": [
+      {
+        "country_code": "CN",
+        "country": "China",
+        "period": "2025-12",
+        "value": 13214.489
+      },
+      {
+        "country_code": "US",
+        "country": "United States",
+        "period": "2025-12",
+        "value": 6749.8387
+      },
+      {
+        "country_code": "JP",
+        "country": "Japan",
+        "period": "2025-12",
+        "value": 2957.7474
+      },
+      {
+        "country_code": "KR",
+        "country": "South Korea",
+        "period": "2025-12",
+        "value": 2798.8186
+      },
+      {
+        "country_code": "DE",
+        "country": "Germany",
+        "period": "2025-12",
+        "value": 1629.0077
+      },
+      {
+        "country_code": "NL",
+        "country": "Netherlands",
+        "period": "2025-12",
+        "value": 1569.4756
+      },
+      {
+        "country_code": "ES",
+        "country": "Spain",
+        "period": "2025-12",
+        "value": 1363.3031
+      },
+      {
+        "country_code": "IT",
+        "country": "Italy",
+        "period": "2025-12",
+        "value": 1200.9724
+      },
+      {
+        "country_code": "FR",
+        "country": "France",
+        "period": "2025-12",
+        "value": 911.0555
+      },
+      {
+        "country_code": "TH",
+        "country": "Thailand",
+        "period": "2025-12",
+        "value": 907.9915
+      }
+    ]
+  }
+}
