@@ -6,30 +6,10 @@
       "name": "WTI Crude Oil",
       "unit": "USD/barrel",
       "frequency": "daily",
-      "latest_value": 84.25,
-      "latest_date": "2026-07-27",
-      "change_pct": -8.16,
+      "latest_value": 81.96,
+      "latest_date": "2026-08-03",
+      "change_pct": -4.87,
       "history": [
-        {
-          "date": "2026-02-03",
-          "value": 62.62
-        },
-        {
-          "date": "2026-02-04",
-          "value": 64.56
-        },
-        {
-          "date": "2026-02-05",
-          "value": 62.9
-        },
-        {
-          "date": "2026-02-06",
-          "value": 63.77
-        },
-        {
-          "date": "2026-02-09",
-          "value": 64.53
-        },
         {
           "date": "2026-02-10",
           "value": 64.2
@@ -489,6 +469,26 @@
         {
           "date": "2026-07-27",
           "value": 84.25
+        },
+        {
+          "date": "2026-07-28",
+          "value": 80.91
+        },
+        {
+          "date": "2026-07-29",
+          "value": 86.08
+        },
+        {
+          "date": "2026-07-30",
+          "value": 85.15
+        },
+        {
+          "date": "2026-07-31",
+          "value": 86.16
+        },
+        {
+          "date": "2026-08-03",
+          "value": 81.96
         }
       ]
     },
@@ -498,30 +498,10 @@
       "name": "Brent Crude Oil",
       "unit": "USD/barrel",
       "frequency": "daily",
-      "latest_value": 91.82,
-      "latest_date": "2026-07-27",
-      "change_pct": -8.46,
+      "latest_value": 88.9,
+      "latest_date": "2026-08-03",
+      "change_pct": -8.3,
       "history": [
-        {
-          "date": "2026-02-04",
-          "value": 71.15
-        },
-        {
-          "date": "2026-02-05",
-          "value": 69.87
-        },
-        {
-          "date": "2026-02-06",
-          "value": 70.45
-        },
-        {
-          "date": "2026-02-09",
-          "value": 71.19
-        },
-        {
-          "date": "2026-02-10",
-          "value": 71.01
-        },
         {
           "date": "2026-02-11",
           "value": 71.52
@@ -981,6 +961,26 @@
         {
           "date": "2026-07-27",
           "value": 91.82
+        },
+        {
+          "date": "2026-07-28",
+          "value": 85.51
+        },
+        {
+          "date": "2026-07-29",
+          "value": 91.95
+        },
+        {
+          "date": "2026-07-30",
+          "value": 91.91
+        },
+        {
+          "date": "2026-07-31",
+          "value": 96.95
+        },
+        {
+          "date": "2026-08-03",
+          "value": 88.9
         }
       ]
     },
@@ -990,30 +990,10 @@
       "name": "Henry Hub Natural Gas",
       "unit": "USD/MMBtu",
       "frequency": "daily",
-      "latest_value": 2.63,
-      "latest_date": "2026-07-27",
-      "change_pct": -8.36,
+      "latest_value": 2.81,
+      "latest_date": "2026-08-03",
+      "change_pct": 8.49,
       "history": [
-        {
-          "date": "2026-02-03",
-          "value": 4.11
-        },
-        {
-          "date": "2026-02-04",
-          "value": 6.88
-        },
-        {
-          "date": "2026-02-05",
-          "value": 5.28
-        },
-        {
-          "date": "2026-02-06",
-          "value": 4.37
-        },
-        {
-          "date": "2026-02-09",
-          "value": 3.25
-        },
         {
           "date": "2026-02-10",
           "value": 3.18
@@ -1473,6 +1453,26 @@
         {
           "date": "2026-07-27",
           "value": 2.63
+        },
+        {
+          "date": "2026-07-28",
+          "value": 2.65
+        },
+        {
+          "date": "2026-07-29",
+          "value": 2.58
+        },
+        {
+          "date": "2026-07-30",
+          "value": 2.65
+        },
+        {
+          "date": "2026-07-31",
+          "value": 2.59
+        },
+        {
+          "date": "2026-08-03",
+          "value": 2.81
         }
       ]
     },
