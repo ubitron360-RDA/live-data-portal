@@ -1974,14 +1974,10 @@
       "name": "US Regular Gasoline (retail, avg)",
       "unit": "USD/gallon",
       "frequency": "weekly",
-      "latest_value": 4.079,
-      "latest_date": "2026-08-03",
-      "change_pct": -0.42,
+      "latest_value": 4.006,
+      "latest_date": "2026-08-10",
+      "change_pct": -1.79,
       "history": [
-        {
-          "date": "2024-04-22",
-          "value": 3.668
-        },
         {
           "date": "2024-04-29",
           "value": 3.653
@@ -2457,6 +2453,10 @@
         {
           "date": "2026-08-03",
           "value": 4.079
+        },
+        {
+          "date": "2026-08-10",
+          "value": 4.006
         }
       ]
     },

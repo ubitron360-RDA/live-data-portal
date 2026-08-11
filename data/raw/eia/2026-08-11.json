@@ -5,6 +5,10 @@
     "frequency": "weekly",
     "observations": [
       {
+        "date": "2026-08-10",
+        "value": 4.006
+      },
+      {
         "date": "2026-08-03",
         "value": 4.079
       },
