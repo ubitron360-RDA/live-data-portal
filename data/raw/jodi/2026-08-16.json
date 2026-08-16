@@ -1,0 +1,8732 @@
+{
+  "product": "TOTCRUDE",
+  "unit": "KBD",
+  "export_flow": "TOTEXPSB",
+  "import_flow": "TOTIMPSB",
+  "rows": [
+    {
+      "country": "AT",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 178.7837
+    },
+    {
+      "country": "AT",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 170.2996
+    },
+    {
+      "country": "AT",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.2395
+    },
+    {
+      "country": "AT",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 156.9097
+    },
+    {
+      "country": "AT",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 146.9087
+    },
+    {
+      "country": "AT",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 177.3572
+    },
+    {
+      "country": "AT",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 186.7261
+    },
+    {
+      "country": "AT",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 173.3344
+    },
+    {
+      "country": "AT",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 180.4598
+    },
+    {
+      "country": "AT",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 143.715
+    },
+    {
+      "country": "AT",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 173.5516
+    },
+    {
+      "country": "AT",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AT",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 163.1227
+    },
+    {
+      "country": "AT",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 1.4367
+    },
+    {
+      "country": "AT",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 159.7626
+    },
+    {
+      "country": "AU",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 210.6394
+    },
+    {
+      "country": "AU",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 163.5665
+    },
+    {
+      "country": "AU",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 253.2121
+    },
+    {
+      "country": "AU",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 147.4
+    },
+    {
+      "country": "AU",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 191.62
+    },
+    {
+      "country": "AU",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 178.3065
+    },
+    {
+      "country": "AU",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 306.8377
+    },
+    {
+      "country": "AU",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 155.7527
+    },
+    {
+      "country": "AU",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 234.4135
+    },
+    {
+      "country": "AU",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 166.4194
+    },
+    {
+      "country": "AU",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 232.6463
+    },
+    {
+      "country": "AU",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 205.623
+    },
+    {
+      "country": "AU",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 241.7835
+    },
+    {
+      "country": "AU",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 79.6435
+    },
+    {
+      "country": "AU",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 287.6677
+    },
+    {
+      "country": "AU",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 148.1132
+    },
+    {
+      "country": "AU",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 263.846
+    },
+    {
+      "country": "AU",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 161.1573
+    },
+    {
+      "country": "AU",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 217.0584
+    },
+    {
+      "country": "AU",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 212.779
+    },
+    {
+      "country": "AU",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 222.3283
+    },
+    {
+      "country": "AU",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 196.2877
+    },
+    {
+      "country": "AU",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 230.1342
+    },
+    {
+      "country": "AU",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 199.4655
+    },
+    {
+      "country": "AZ",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "AZ",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BE",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 57.529
+    },
+    {
+      "country": "BE",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 638.4426
+    },
+    {
+      "country": "BE",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 44.9286
+    },
+    {
+      "country": "BE",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 584.5007
+    },
+    {
+      "country": "BE",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 57.7677
+    },
+    {
+      "country": "BE",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 682.2848
+    },
+    {
+      "country": "BE",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 66.3533
+    },
+    {
+      "country": "BE",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 660.7217
+    },
+    {
+      "country": "BE",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 67.5548
+    },
+    {
+      "country": "BE",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 672.9268
+    },
+    {
+      "country": "BE",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 73.5067
+    },
+    {
+      "country": "BE",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 681.905
+    },
+    {
+      "country": "BE",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 73.0452
+    },
+    {
+      "country": "BE",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 653.549
+    },
+    {
+      "country": "BE",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 61.8258
+    },
+    {
+      "country": "BE",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 677.9213
+    },
+    {
+      "country": "BE",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 60.68
+    },
+    {
+      "country": "BE",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 588.4816
+    },
+    {
+      "country": "BE",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 81.1613
+    },
+    {
+      "country": "BE",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 479.171
+    },
+    {
+      "country": "BE",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 54.2667
+    },
+    {
+      "country": "BE",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 566.137
+    },
+    {
+      "country": "BE",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 64.4516
+    },
+    {
+      "country": "BE",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 677.6855
+    },
+    {
+      "country": "BG",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BG",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BH",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "BN",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 58.6335
+    },
+    {
+      "country": "BN",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 113.6206
+    },
+    {
+      "country": "BN",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 16.3974
+    },
+    {
+      "country": "BN",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 124.0011
+    },
+    {
+      "country": "BN",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 89.0759
+    },
+    {
+      "country": "BN",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 137.772
+    },
+    {
+      "country": "BN",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 66.2517
+    },
+    {
+      "country": "BN",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 155.9801
+    },
+    {
+      "country": "BN",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 63.5054
+    },
+    {
+      "country": "BN",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 174.6928
+    },
+    {
+      "country": "BN",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 65.6216
+    },
+    {
+      "country": "BN",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 173.7995
+    },
+    {
+      "country": "BN",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 86.2295
+    },
+    {
+      "country": "BN",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 125.3901
+    },
+    {
+      "country": "BN",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 69.1855
+    },
+    {
+      "country": "BN",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 120.7315
+    },
+    {
+      "country": "BN",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 59.96
+    },
+    {
+      "country": "BN",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 138.8021
+    },
+    {
+      "country": "BN",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 52.1479
+    },
+    {
+      "country": "BN",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 92.3168
+    },
+    {
+      "country": "BN",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 58.9145
+    },
+    {
+      "country": "BN",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 144.4517
+    },
+    {
+      "country": "BN",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 80.5479
+    },
+    {
+      "country": "BN",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 235.168
+    },
+    {
+      "country": "CA",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 4675.142
+    },
+    {
+      "country": "CA",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 720.7493
+    },
+    {
+      "country": "CA",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 4706.0075
+    },
+    {
+      "country": "CA",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 947.4171
+    },
+    {
+      "country": "CA",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 4525.1626
+    },
+    {
+      "country": "CA",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 641.8874
+    },
+    {
+      "country": "CA",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 4400.6903
+    },
+    {
+      "country": "CA",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 642.553
+    },
+    {
+      "country": "CA",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 4407.9844
+    },
+    {
+      "country": "CA",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 643.6578
+    },
+    {
+      "country": "CA",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 4538.2216
+    },
+    {
+      "country": "CA",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 831.1627
+    },
+    {
+      "country": "CA",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 4747.9368
+    },
+    {
+      "country": "CA",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 935.0632
+    },
+    {
+      "country": "CA",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 4604.9133
+    },
+    {
+      "country": "CA",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 703.6319
+    },
+    {
+      "country": "CA",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 4612.5129
+    },
+    {
+      "country": "CA",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 711.8604
+    },
+    {
+      "country": "CA",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 4623.497
+    },
+    {
+      "country": "CA",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 720.2964
+    },
+    {
+      "country": "CA",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 4789.3256
+    },
+    {
+      "country": "CA",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 621.7246
+    },
+    {
+      "country": "CA",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 4896.0319
+    },
+    {
+      "country": "CA",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 708.1862
+    },
+    {
+      "country": "CH",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 60.6397
+    },
+    {
+      "country": "CH",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 66.607
+    },
+    {
+      "country": "CH",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 68.9607
+    },
+    {
+      "country": "CH",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 71.9899
+    },
+    {
+      "country": "CH",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 66.3424
+    },
+    {
+      "country": "CH",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 65.3602
+    },
+    {
+      "country": "CH",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 65.3976
+    },
+    {
+      "country": "CH",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 64.4498
+    },
+    {
+      "country": "CH",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 61.1838
+    },
+    {
+      "country": "CH",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 62.3132
+    },
+    {
+      "country": "CH",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 42.7556
+    },
+    {
+      "country": "CH",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CH",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 54.6899
+    },
+    {
+      "country": "CL",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 141.1742
+    },
+    {
+      "country": "CL",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 218.885
+    },
+    {
+      "country": "CL",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 124.4507
+    },
+    {
+      "country": "CL",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 174.5
+    },
+    {
+      "country": "CL",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 140.0091
+    },
+    {
+      "country": "CL",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 241.26
+    },
+    {
+      "country": "CL",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 242.6346
+    },
+    {
+      "country": "CL",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 119.0677
+    },
+    {
+      "country": "CL",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 194.7617
+    },
+    {
+      "country": "CL",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 190.0771
+    },
+    {
+      "country": "CL",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 231.4223
+    },
+    {
+      "country": "CL",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CL",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 189.49
+    },
+    {
+      "country": "CN",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 158.0566
+    },
+    {
+      "country": "CN",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 10380.9406
+    },
+    {
+      "country": "CN",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 158.8172
+    },
+    {
+      "country": "CN",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 10428.9086
+    },
+    {
+      "country": "CN",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 96.7879
+    },
+    {
+      "country": "CN",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 12073.9858
+    },
+    {
+      "country": "CN",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 48.8497
+    },
+    {
+      "country": "CN",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 11724.444
+    },
+    {
+      "country": "CN",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 41.7948
+    },
+    {
+      "country": "CN",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 11003.6129
+    },
+    {
+      "country": "CN",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 306.952
+    },
+    {
+      "country": "CN",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 12171.452
+    },
+    {
+      "country": "CN",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 75.2737
+    },
+    {
+      "country": "CN",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 11145.5265
+    },
+    {
+      "country": "CN",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 37.5343
+    },
+    {
+      "country": "CN",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 11686.4981
+    },
+    {
+      "country": "CN",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 36.2699
+    },
+    {
+      "country": "CN",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 11447.016
+    },
+    {
+      "country": "CN",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 40.5809
+    },
+    {
+      "country": "CN",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 11418.4916
+    },
+    {
+      "country": "CN",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 19.2892
+    },
+    {
+      "country": "CN",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 12417.404
+    },
+    {
+      "country": "CN",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 18.6669
+    },
+    {
+      "country": "CN",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 13214.489
+    },
+    {
+      "country": "CY",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CY",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 140.2677
+    },
+    {
+      "country": "CZ",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 137.6611
+    },
+    {
+      "country": "CZ",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 76.3152
+    },
+    {
+      "country": "CZ",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 106.6193
+    },
+    {
+      "country": "CZ",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 156.4342
+    },
+    {
+      "country": "CZ",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 159.929
+    },
+    {
+      "country": "CZ",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 145.0226
+    },
+    {
+      "country": "CZ",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 126.0032
+    },
+    {
+      "country": "CZ",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 145.189
+    },
+    {
+      "country": "CZ",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 118.6332
+    },
+    {
+      "country": "CZ",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 178.8482
+    },
+    {
+      "country": "CZ",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "CZ",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 171.8874
+    },
+    {
+      "country": "DE",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 1664.1935
+    },
+    {
+      "country": "DE",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 1582.4443
+    },
+    {
+      "country": "DE",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 1446.6597
+    },
+    {
+      "country": "DE",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 1615.0127
+    },
+    {
+      "country": "DE",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 1652.7819
+    },
+    {
+      "country": "DE",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 1519.694
+    },
+    {
+      "country": "DE",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 1661.3406
+    },
+    {
+      "country": "DE",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 1699.6171
+    },
+    {
+      "country": "DE",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 1452.627
+    },
+    {
+      "country": "DE",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 1696.7642
+    },
+    {
+      "country": "DE",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 1673.727
+    },
+    {
+      "country": "DE",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DE",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 1629.0077
+    },
+    {
+      "country": "DK",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 7.8523
+    },
+    {
+      "country": "DK",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 91.5306
+    },
+    {
+      "country": "DK",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 18.699
+    },
+    {
+      "country": "DK",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 86.0711
+    },
+    {
+      "country": "DK",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 20.7029
+    },
+    {
+      "country": "DK",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 82.741
+    },
+    {
+      "country": "DK",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 33.6664
+    },
+    {
+      "country": "DK",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 132.4143
+    },
+    {
+      "country": "DK",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 27.5868
+    },
+    {
+      "country": "DK",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 113.171
+    },
+    {
+      "country": "DK",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 33.165
+    },
+    {
+      "country": "DK",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 89.4227
+    },
+    {
+      "country": "DK",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 6.9032
+    },
+    {
+      "country": "DK",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 90.8174
+    },
+    {
+      "country": "DK",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 19.0194
+    },
+    {
+      "country": "DK",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 120.7729
+    },
+    {
+      "country": "DK",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 34.4013
+    },
+    {
+      "country": "DK",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 122.8333
+    },
+    {
+      "country": "DK",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 29.022
+    },
+    {
+      "country": "DK",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 99.6255
+    },
+    {
+      "country": "DK",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 13.0394
+    },
+    {
+      "country": "DK",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 128.7293
+    },
+    {
+      "country": "DK",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 35.1917
+    },
+    {
+      "country": "DK",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 119.8219
+    },
+    {
+      "country": "DZ",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 547.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 623.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 650.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 707.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 787.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 668.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 648.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 6.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 627.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 675.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 6.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 647.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 697.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 6.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 692.0
+    },
+    {
+      "country": "DZ",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 36.6706
+    },
+    {
+      "country": "EE",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 38.4768
+    },
+    {
+      "country": "EE",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 28.2819
+    },
+    {
+      "country": "EE",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 45.299
+    },
+    {
+      "country": "EE",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 28.234
+    },
+    {
+      "country": "EE",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 2.3968
+    },
+    {
+      "country": "EE",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 31.6374
+    },
+    {
+      "country": "EE",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 35.9516
+    },
+    {
+      "country": "EE",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 37.15
+    },
+    {
+      "country": "EE",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EE",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 34.2739
+    },
+    {
+      "country": "EE",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "EG",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "ES",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 47.5803
+    },
+    {
+      "country": "ES",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 1325.7046
+    },
+    {
+      "country": "ES",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 74.9141
+    },
+    {
+      "country": "ES",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 1397.2292
+    },
+    {
+      "country": "ES",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 42.7983
+    },
+    {
+      "country": "ES",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 1287.5149
+    },
+    {
+      "country": "ES",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 71.1552
+    },
+    {
+      "country": "ES",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 1288.9032
+    },
+    {
+      "country": "ES",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 38.4946
+    },
+    {
+      "country": "ES",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 1202.6213
+    },
+    {
+      "country": "ES",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 77.5789
+    },
+    {
+      "country": "ES",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 1096.381
+    },
+    {
+      "country": "ES",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 62.1652
+    },
+    {
+      "country": "ES",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 1479.517
+    },
+    {
+      "country": "ES",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 92.5305
+    },
+    {
+      "country": "ES",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 1307.3538
+    },
+    {
+      "country": "ES",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 69.6728
+    },
+    {
+      "country": "ES",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 1388.2169
+    },
+    {
+      "country": "ES",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 86.7921
+    },
+    {
+      "country": "ES",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 1421.6047
+    },
+    {
+      "country": "ES",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 77.5789
+    },
+    {
+      "country": "ES",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 1310.3525
+    },
+    {
+      "country": "ES",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 67.6644
+    },
+    {
+      "country": "ES",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 1363.3031
+    },
+    {
+      "country": "FI",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 230.0848
+    },
+    {
+      "country": "FI",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 189.5675
+    },
+    {
+      "country": "FI",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 223.1932
+    },
+    {
+      "country": "FI",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 249.4487
+    },
+    {
+      "country": "FI",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 185.249
+    },
+    {
+      "country": "FI",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 192.357
+    },
+    {
+      "country": "FI",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 246.4919
+    },
+    {
+      "country": "FI",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 207.5487
+    },
+    {
+      "country": "FI",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 266.598
+    },
+    {
+      "country": "FI",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 211.5433
+    },
+    {
+      "country": "FI",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 180.8603
+    },
+    {
+      "country": "FI",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FI",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 251.9113
+    },
+    {
+      "country": "FR",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.7185
+    },
+    {
+      "country": "FR",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 938.387
+    },
+    {
+      "country": "FR",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.7955
+    },
+    {
+      "country": "FR",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 849.6774
+    },
+    {
+      "country": "FR",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 2.6347
+    },
+    {
+      "country": "FR",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 893.9292
+    },
+    {
+      "country": "FR",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 6.435
+    },
+    {
+      "country": "FR",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 597.7345
+    },
+    {
+      "country": "FR",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 2.1556
+    },
+    {
+      "country": "FR",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 885.8513
+    },
+    {
+      "country": "FR",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 2.7225
+    },
+    {
+      "country": "FR",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 869.6857
+    },
+    {
+      "country": "FR",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 3.1137
+    },
+    {
+      "country": "FR",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 1058.2159
+    },
+    {
+      "country": "FR",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 3.8323
+    },
+    {
+      "country": "FR",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 918.9535
+    },
+    {
+      "country": "FR",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 3.7125
+    },
+    {
+      "country": "FR",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 1067.7267
+    },
+    {
+      "country": "FR",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "FR",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 1007.8395
+    },
+    {
+      "country": "FR",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 2.475
+    },
+    {
+      "country": "FR",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 1082.697
+    },
+    {
+      "country": "FR",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 2.3952
+    },
+    {
+      "country": "FR",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 911.0555
+    },
+    {
+      "country": "GB",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 638.8174
+    },
+    {
+      "country": "GB",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 999.9592
+    },
+    {
+      "country": "GB",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 502.7289
+    },
+    {
+      "country": "GB",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 829.126
+    },
+    {
+      "country": "GB",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 705.1714
+    },
+    {
+      "country": "GB",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 759.797
+    },
+    {
+      "country": "GB",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 613.2447
+    },
+    {
+      "country": "GB",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 966.8791
+    },
+    {
+      "country": "GB",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 607.0292
+    },
+    {
+      "country": "GB",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 962.6194
+    },
+    {
+      "country": "GB",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 581.5024
+    },
+    {
+      "country": "GB",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 998.4272
+    },
+    {
+      "country": "GB",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 608.9397
+    },
+    {
+      "country": "GB",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 868.4261
+    },
+    {
+      "country": "GB",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 561.5001
+    },
+    {
+      "country": "GB",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 822.3938
+    },
+    {
+      "country": "GB",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 428.347
+    },
+    {
+      "country": "GB",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 949.5637
+    },
+    {
+      "country": "GB",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 542.736
+    },
+    {
+      "country": "GB",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 804.2014
+    },
+    {
+      "country": "GB",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 562.0654
+    },
+    {
+      "country": "GB",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 847.0327
+    },
+    {
+      "country": "GB",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 550.0107
+    },
+    {
+      "country": "GB",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 846.3967
+    },
+    {
+      "country": "GR",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.7163
+    },
+    {
+      "country": "GR",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 566.4947
+    },
+    {
+      "country": "GR",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 529.6835
+    },
+    {
+      "country": "GR",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 467.0721
+    },
+    {
+      "country": "GR",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 4.422
+    },
+    {
+      "country": "GR",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 366.0426
+    },
+    {
+      "country": "GR",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 437.2687
+    },
+    {
+      "country": "GR",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 596.873
+    },
+    {
+      "country": "GR",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 516.046
+    },
+    {
+      "country": "GR",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 611.0023
+    },
+    {
+      "country": "GR",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 637.0023
+    },
+    {
+      "country": "GR",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 613.0336
+    },
+    {
+      "country": "GR",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "GR",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 630.7081
+    },
+    {
+      "country": "GR",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.2388
+    },
+    {
+      "country": "GR",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 569.5537
+    },
+    {
+      "country": "HR",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HR",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "HU",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.9036
+    },
+    {
+      "country": "HU",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 110.5514
+    },
+    {
+      "country": "HU",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 1.0589
+    },
+    {
+      "country": "HU",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 137.6611
+    },
+    {
+      "country": "HU",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 1.86
+    },
+    {
+      "country": "HU",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 96.2868
+    },
+    {
+      "country": "HU",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 4.1456
+    },
+    {
+      "country": "HU",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 111.0455
+    },
+    {
+      "country": "HU",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 6.4231
+    },
+    {
+      "country": "HU",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 135.282
+    },
+    {
+      "country": "HU",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 5.9044
+    },
+    {
+      "country": "HU",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 122.8333
+    },
+    {
+      "country": "HU",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 5.7153
+    },
+    {
+      "country": "HU",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 97.4769
+    },
+    {
+      "country": "HU",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 15.2155
+    },
+    {
+      "country": "HU",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 88.4454
+    },
+    {
+      "country": "HU",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 9.052
+    },
+    {
+      "country": "HU",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 66.5771
+    },
+    {
+      "country": "HU",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 4.4765
+    },
+    {
+      "country": "HU",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 86.3003
+    },
+    {
+      "country": "HU",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 2.7038
+    },
+    {
+      "country": "HU",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 47.6719
+    },
+    {
+      "country": "HU",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 4.0416
+    },
+    {
+      "country": "HU",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 55.1602
+    },
+    {
+      "country": "ID",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 32.3548
+    },
+    {
+      "country": "ID",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 255.129
+    },
+    {
+      "country": "ID",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 100.1786
+    },
+    {
+      "country": "ID",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 375.8214
+    },
+    {
+      "country": "ID",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 79.1935
+    },
+    {
+      "country": "ID",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 363.8065
+    },
+    {
+      "country": "ID",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 51.1
+    },
+    {
+      "country": "ID",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 279.6667
+    },
+    {
+      "country": "ID",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 40.4839
+    },
+    {
+      "country": "ID",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 352.2903
+    },
+    {
+      "country": "ID",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 69.9667
+    },
+    {
+      "country": "ID",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 299.1333
+    },
+    {
+      "country": "ID",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 52.3871
+    },
+    {
+      "country": "ID",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 357.9355
+    },
+    {
+      "country": "ID",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 65.129
+    },
+    {
+      "country": "ID",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 441.0645
+    },
+    {
+      "country": "ID",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 72.7667
+    },
+    {
+      "country": "ID",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 376.0667
+    },
+    {
+      "country": "ID",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 32.4839
+    },
+    {
+      "country": "ID",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 383.4194
+    },
+    {
+      "country": "ID",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 79.8667
+    },
+    {
+      "country": "ID",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 434.5
+    },
+    {
+      "country": "ID",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 71.7742
+    },
+    {
+      "country": "ID",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 429.4839
+    },
+    {
+      "country": "IE",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 59.1977
+    },
+    {
+      "country": "IE",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 63.9611
+    },
+    {
+      "country": "IE",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 59.911
+    },
+    {
+      "country": "IE",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 41.7633
+    },
+    {
+      "country": "IE",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 61.0997
+    },
+    {
+      "country": "IE",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 60.1883
+    },
+    {
+      "country": "IE",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 62.7639
+    },
+    {
+      "country": "IE",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 59.4355
+    },
+    {
+      "country": "IE",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 61.4167
+    },
+    {
+      "country": "IE",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 60.8619
+    },
+    {
+      "country": "IE",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 63.8733
+    },
+    {
+      "country": "IE",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IE",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 62.2884
+    },
+    {
+      "country": "IN",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IN",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IS",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "IT",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 33.1666
+    },
+    {
+      "country": "IT",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 1114.6533
+    },
+    {
+      "country": "IT",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 45.5027
+    },
+    {
+      "country": "IT",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 1177.9708
+    },
+    {
+      "country": "IT",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 45.0392
+    },
+    {
+      "country": "IT",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 1044.1629
+    },
+    {
+      "country": "IT",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 53.217
+    },
+    {
+      "country": "IT",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 1056.4807
+    },
+    {
+      "country": "IT",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 58.1614
+    },
+    {
+      "country": "IT",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 1193.6213
+    },
+    {
+      "country": "IT",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 48.5718
+    },
+    {
+      "country": "IT",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 1171.8765
+    },
+    {
+      "country": "IT",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 35.7571
+    },
+    {
+      "country": "IT",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 1198.9732
+    },
+    {
+      "country": "IT",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 53.8967
+    },
+    {
+      "country": "IT",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 1312.2792
+    },
+    {
+      "country": "IT",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 38.8889
+    },
+    {
+      "country": "IT",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 1179.3425
+    },
+    {
+      "country": "IT",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 30.0992
+    },
+    {
+      "country": "IT",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 1014.4756
+    },
+    {
+      "country": "IT",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 58.451
+    },
+    {
+      "country": "IT",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 872.9826
+    },
+    {
+      "country": "IT",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 40.5424
+    },
+    {
+      "country": "IT",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 1200.9724
+    },
+    {
+      "country": "JP",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 2506.751
+    },
+    {
+      "country": "JP",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 2353.3989
+    },
+    {
+      "country": "JP",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 2719.7677
+    },
+    {
+      "country": "JP",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 2361.5937
+    },
+    {
+      "country": "JP",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 2202.2035
+    },
+    {
+      "country": "JP",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 2191.3467
+    },
+    {
+      "country": "JP",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 2151.8023
+    },
+    {
+      "country": "JP",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 2109.7219
+    },
+    {
+      "country": "JP",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 2324.7437
+    },
+    {
+      "country": "JP",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 2411.5626
+    },
+    {
+      "country": "JP",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 2423.256
+    },
+    {
+      "country": "JP",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "JP",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 2957.7474
+    },
+    {
+      "country": "KR",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 7.1758
+    },
+    {
+      "country": "KR",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 2889.7129
+    },
+    {
+      "country": "KR",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 6.0909
+    },
+    {
+      "country": "KR",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 2742.8038
+    },
+    {
+      "country": "KR",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 3.5879
+    },
+    {
+      "country": "KR",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 2597.4642
+    },
+    {
+      "country": "KR",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 4.6962
+    },
+    {
+      "country": "KR",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 2713.3587
+    },
+    {
+      "country": "KR",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 2.8703
+    },
+    {
+      "country": "KR",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 3018.2006
+    },
+    {
+      "country": "KR",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 12.8527
+    },
+    {
+      "country": "KR",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 2797.2581
+    },
+    {
+      "country": "KR",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 4.7839
+    },
+    {
+      "country": "KR",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 2750.7497
+    },
+    {
+      "country": "KR",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 7.8934
+    },
+    {
+      "country": "KR",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 2984.0267
+    },
+    {
+      "country": "KR",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 2.7188
+    },
+    {
+      "country": "KR",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 2646.4174
+    },
+    {
+      "country": "KR",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 5.7406
+    },
+    {
+      "country": "KR",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 2967.8197
+    },
+    {
+      "country": "KR",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.9887
+    },
+    {
+      "country": "KR",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 2723.8083
+    },
+    {
+      "country": "KR",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 1.6744
+    },
+    {
+      "country": "KR",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 2798.8186
+    },
+    {
+      "country": "KW",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 1225.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 1220.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 1230.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 1225.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 1240.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 1240.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 1250.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 1270.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 1285.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 1650.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 1660.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 1466.0
+    },
+    {
+      "country": "KW",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "KZ",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LT",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LU",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "LV",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MT",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "MX",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 562.7352
+    },
+    {
+      "country": "MX",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 21.1143
+    },
+    {
+      "country": "MX",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 753.0561
+    },
+    {
+      "country": "MX",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 28.1581
+    },
+    {
+      "country": "MX",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 660.2094
+    },
+    {
+      "country": "MX",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 25.6731
+    },
+    {
+      "country": "MX",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 658.878
+    },
+    {
+      "country": "MX",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 24.5454
+    },
+    {
+      "country": "MX",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 658.5452
+    },
+    {
+      "country": "MX",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 23.2737
+    },
+    {
+      "country": "MX",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 680.4967
+    },
+    {
+      "country": "MX",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 30.7437
+    },
+    {
+      "country": "MX",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 647.609
+    },
+    {
+      "country": "MX",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 30.7117
+    },
+    {
+      "country": "MX",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 657.1187
+    },
+    {
+      "country": "MX",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 24.9533
+    },
+    {
+      "country": "MX",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 594.5133
+    },
+    {
+      "country": "MX",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 25.5371
+    },
+    {
+      "country": "MX",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 561.071
+    },
+    {
+      "country": "MX",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 25.1932
+    },
+    {
+      "country": "MX",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 561.1027
+    },
+    {
+      "country": "MX",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 26.7768
+    },
+    {
+      "country": "MX",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 383.0023
+    },
+    {
+      "country": "MX",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 25.4332
+    },
+    {
+      "country": "MY",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 218.1074
+    },
+    {
+      "country": "MY",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 395.6375
+    },
+    {
+      "country": "MY",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 149.3839
+    },
+    {
+      "country": "MY",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 491.3048
+    },
+    {
+      "country": "MY",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 205.9355
+    },
+    {
+      "country": "MY",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 391.1977
+    },
+    {
+      "country": "MY",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 244.6878
+    },
+    {
+      "country": "MY",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 356.4337
+    },
+    {
+      "country": "MY",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 238.6047
+    },
+    {
+      "country": "MY",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 490.8066
+    },
+    {
+      "country": "MY",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 132.2922
+    },
+    {
+      "country": "MY",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 496.6619
+    },
+    {
+      "country": "MY",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 214.6765
+    },
+    {
+      "country": "MY",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 590.812
+    },
+    {
+      "country": "MY",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 156.8413
+    },
+    {
+      "country": "MY",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 368.2556
+    },
+    {
+      "country": "MY",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 180.9276
+    },
+    {
+      "country": "MY",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 715.408
+    },
+    {
+      "country": "MY",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 236.3666
+    },
+    {
+      "country": "MY",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 482.9001
+    },
+    {
+      "country": "MY",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 227.2699
+    },
+    {
+      "country": "MY",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 488.911
+    },
+    {
+      "country": "MY",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 193.3559
+    },
+    {
+      "country": "MY",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 258.8792
+    },
+    {
+      "country": "NG",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 1270.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 1630.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 1429.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 1302.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 104.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 1388.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 229.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 1245.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 216.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 1409.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 272.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 1454.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 165.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 1507.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 208.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 1458.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 203.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 1044.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 33.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 1206.0
+    },
+    {
+      "country": "NG",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "NL",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 21.7156
+    },
+    {
+      "country": "NL",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 1008.0245
+    },
+    {
+      "country": "NL",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 22.4277
+    },
+    {
+      "country": "NL",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 1475.4262
+    },
+    {
+      "country": "NL",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 11.6984
+    },
+    {
+      "country": "NL",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 1185.4894
+    },
+    {
+      "country": "NL",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 13.364
+    },
+    {
+      "country": "NL",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 1371.9861
+    },
+    {
+      "country": "NL",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 15.9858
+    },
+    {
+      "country": "NL",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 1142.7989
+    },
+    {
+      "country": "NL",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 24.5529
+    },
+    {
+      "country": "NL",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 1111.1803
+    },
+    {
+      "country": "NL",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 44.406
+    },
+    {
+      "country": "NL",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 1273.7821
+    },
+    {
+      "country": "NL",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 12.4465
+    },
+    {
+      "country": "NL",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 1370.9113
+    },
+    {
+      "country": "NL",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 17.9022
+    },
+    {
+      "country": "NL",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 1218.7976
+    },
+    {
+      "country": "NL",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 42.8184
+    },
+    {
+      "country": "NL",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 1438.2633
+    },
+    {
+      "country": "NL",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 31.9579
+    },
+    {
+      "country": "NL",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 1284.7296
+    },
+    {
+      "country": "NL",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 16.7119
+    },
+    {
+      "country": "NL",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 1569.4756
+    },
+    {
+      "country": "NO",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 1679.1713
+    },
+    {
+      "country": "NO",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 23.7742
+    },
+    {
+      "country": "NO",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 1733.7925
+    },
+    {
+      "country": "NO",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 30.7961
+    },
+    {
+      "country": "NO",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 1458.5468
+    },
+    {
+      "country": "NO",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 22.8232
+    },
+    {
+      "country": "NO",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 1636.14
+    },
+    {
+      "country": "NO",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 1.2283
+    },
+    {
+      "country": "NO",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 1748.3542
+    },
+    {
+      "country": "NO",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.4755
+    },
+    {
+      "country": "NO",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 1623.8567
+    },
+    {
+      "country": "NO",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 21.8643
+    },
+    {
+      "country": "NO",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 1736.4671
+    },
+    {
+      "country": "NO",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 45.4087
+    },
+    {
+      "country": "NO",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 1776.4077
+    },
+    {
+      "country": "NO",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 1.1887
+    },
+    {
+      "country": "NO",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 1806.8783
+    },
+    {
+      "country": "NO",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 61.6623
+    },
+    {
+      "country": "NO",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 1878.6368
+    },
+    {
+      "country": "NO",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 44.4577
+    },
+    {
+      "country": "NO",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 1813.2657
+    },
+    {
+      "country": "NO",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 24.5667
+    },
+    {
+      "country": "NO",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 1765.4716
+    },
+    {
+      "country": "NO",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 54.6806
+    },
+    {
+      "country": "NZ",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 9.5097
+    },
+    {
+      "country": "NZ",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.6645
+    },
+    {
+      "country": "NZ",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 20.2675
+    },
+    {
+      "country": "NZ",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "NZ",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 7.6077
+    },
+    {
+      "country": "NZ",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.6645
+    },
+    {
+      "country": "NZ",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 9.3353
+    },
+    {
+      "country": "NZ",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.6867
+    },
+    {
+      "country": "NZ",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 7.8455
+    },
+    {
+      "country": "NZ",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.3323
+    },
+    {
+      "country": "NZ",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 9.8267
+    },
+    {
+      "country": "NZ",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 1.03
+    },
+    {
+      "country": "NZ",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 6.8945
+    },
+    {
+      "country": "NZ",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.9968
+    },
+    {
+      "country": "NZ",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 10.4606
+    },
+    {
+      "country": "NZ",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.9968
+    },
+    {
+      "country": "NZ",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 40.535
+    },
+    {
+      "country": "NZ",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.6867
+    },
+    {
+      "country": "NZ",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 8.7965
+    },
+    {
+      "country": "NZ",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.6645
+    },
+    {
+      "country": "NZ",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 6.633
+    },
+    {
+      "country": "NZ",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.6867
+    },
+    {
+      "country": "NZ",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 24.0119
+    },
+    {
+      "country": "NZ",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.6645
+    },
+    {
+      "country": "PE",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 32.3548
+    },
+    {
+      "country": "PE",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 201.5806
+    },
+    {
+      "country": "PE",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 53.8214
+    },
+    {
+      "country": "PE",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 133.9286
+    },
+    {
+      "country": "PE",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 20.0968
+    },
+    {
+      "country": "PE",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 149.0323
+    },
+    {
+      "country": "PE",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 20.7667
+    },
+    {
+      "country": "PE",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 133.6667
+    },
+    {
+      "country": "PE",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 16.2581
+    },
+    {
+      "country": "PE",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 129.9355
+    },
+    {
+      "country": "PE",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 19.7
+    },
+    {
+      "country": "PE",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 40.2667
+    },
+    {
+      "country": "PE",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PE",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 1.2581
+    },
+    {
+      "country": "PG",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PG",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 131.3548
+    },
+    {
+      "country": "PH",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 5.6071
+    },
+    {
+      "country": "PH",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 109.6071
+    },
+    {
+      "country": "PH",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 10.3226
+    },
+    {
+      "country": "PH",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 130.4839
+    },
+    {
+      "country": "PH",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 243.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 10.0968
+    },
+    {
+      "country": "PH",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 164.5161
+    },
+    {
+      "country": "PH",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 4.1
+    },
+    {
+      "country": "PH",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 137.6667
+    },
+    {
+      "country": "PH",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 204.7097
+    },
+    {
+      "country": "PH",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 65.3871
+    },
+    {
+      "country": "PH",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 178.5333
+    },
+    {
+      "country": "PH",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 4.2903
+    },
+    {
+      "country": "PH",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 164.7419
+    },
+    {
+      "country": "PH",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 185.6667
+    },
+    {
+      "country": "PH",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PH",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 98.5161
+    },
+    {
+      "country": "PL",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 486.4926
+    },
+    {
+      "country": "PL",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 383.7745
+    },
+    {
+      "country": "PL",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 515.6681
+    },
+    {
+      "country": "PL",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 539.8631
+    },
+    {
+      "country": "PL",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 528.6701
+    },
+    {
+      "country": "PL",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 516.0005
+    },
+    {
+      "country": "PL",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 539.5105
+    },
+    {
+      "country": "PL",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 559.7215
+    },
+    {
+      "country": "PL",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 633.4322
+    },
+    {
+      "country": "PL",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 576.6824
+    },
+    {
+      "country": "PL",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 503.0311
+    },
+    {
+      "country": "PL",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PL",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 488.3379
+    },
+    {
+      "country": "PT",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 200.9535
+    },
+    {
+      "country": "PT",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 257.1432
+    },
+    {
+      "country": "PT",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 294.2765
+    },
+    {
+      "country": "PT",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 187.5656
+    },
+    {
+      "country": "PT",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 230.7482
+    },
+    {
+      "country": "PT",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 207.6979
+    },
+    {
+      "country": "PT",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 220.7425
+    },
+    {
+      "country": "PT",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 269.3598
+    },
+    {
+      "country": "PT",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 7.423
+    },
+    {
+      "country": "PT",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 229.8838
+    },
+    {
+      "country": "PT",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 70.9017
+    },
+    {
+      "country": "PT",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 71.0346
+    },
+    {
+      "country": "PT",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "PT",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 189.5076
+    },
+    {
+      "country": "RO",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RO",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "RS",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 6073.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 153.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 6547.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 143.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 5754.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 143.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 6166.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 148.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 6191.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 134.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 6141.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 150.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 5994.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 152.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 6407.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 144.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 6460.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 144.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 7098.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 145.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 7378.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 146.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 6988.0
+    },
+    {
+      "country": "SA",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 61.0
+    },
+    {
+      "country": "SE",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 11.6968
+    },
+    {
+      "country": "SE",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 411.9306
+    },
+    {
+      "country": "SE",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 4.4929
+    },
+    {
+      "country": "SE",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 279.2736
+    },
+    {
+      "country": "SE",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 10.5032
+    },
+    {
+      "country": "SE",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 380.1494
+    },
+    {
+      "country": "SE",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 5.6733
+    },
+    {
+      "country": "SE",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 268.7604
+    },
+    {
+      "country": "SE",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 13.129
+    },
+    {
+      "country": "SE",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 382.3616
+    },
+    {
+      "country": "SE",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 10.1133
+    },
+    {
+      "country": "SE",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 326.641
+    },
+    {
+      "country": "SE",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 10.0258
+    },
+    {
+      "country": "SE",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 429.7062
+    },
+    {
+      "country": "SE",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 13.8452
+    },
+    {
+      "country": "SE",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 342.9671
+    },
+    {
+      "country": "SE",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 26.64
+    },
+    {
+      "country": "SE",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 330.177
+    },
+    {
+      "country": "SE",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 5.2516
+    },
+    {
+      "country": "SE",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 228.7445
+    },
+    {
+      "country": "SE",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 11.5933
+    },
+    {
+      "country": "SE",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 301.433
+    },
+    {
+      "country": "SE",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 8.8323
+    },
+    {
+      "country": "SE",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 353.6964
+    },
+    {
+      "country": "SG",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 685.9785
+    },
+    {
+      "country": "SG",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 927.2923
+    },
+    {
+      "country": "SG",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 801.6455
+    },
+    {
+      "country": "SG",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 801.3364
+    },
+    {
+      "country": "SG",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 994.9822
+    },
+    {
+      "country": "SG",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 829.5957
+    },
+    {
+      "country": "SG",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 1070.129
+    },
+    {
+      "country": "SG",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 783.2029
+    },
+    {
+      "country": "SG",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 1031.0971
+    },
+    {
+      "country": "SG",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 859.4325
+    },
+    {
+      "country": "SG",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 948.2849
+    },
+    {
+      "country": "SG",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SG",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 838.3918
+    },
+    {
+      "country": "SI",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SI",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 113.8784
+    },
+    {
+      "country": "SK",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 126.3429
+    },
+    {
+      "country": "SK",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 118.871
+    },
+    {
+      "country": "SK",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 126.2727
+    },
+    {
+      "country": "SK",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 115.3048
+    },
+    {
+      "country": "SK",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 110.55
+    },
+    {
+      "country": "SK",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 131.2335
+    },
+    {
+      "country": "SK",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 104.3687
+    },
+    {
+      "country": "SK",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 159.929
+    },
+    {
+      "country": "SK",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 111.2632
+    },
+    {
+      "country": "SK",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 107.8477
+    },
+    {
+      "country": "SK",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "SK",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 119.5842
+    },
+    {
+      "country": "TH",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 26.3778
+    },
+    {
+      "country": "TH",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 1095.2125
+    },
+    {
+      "country": "TH",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TH",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 1046.8288
+    },
+    {
+      "country": "TH",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 25.1588
+    },
+    {
+      "country": "TH",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 981.9635
+    },
+    {
+      "country": "TH",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 7.9673
+    },
+    {
+      "country": "TH",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 1111.3322
+    },
+    {
+      "country": "TH",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 15.6228
+    },
+    {
+      "country": "TH",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 926.1734
+    },
+    {
+      "country": "TH",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.4193
+    },
+    {
+      "country": "TH",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 826.2382
+    },
+    {
+      "country": "TH",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 9.1298
+    },
+    {
+      "country": "TH",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 875.9087
+    },
+    {
+      "country": "TH",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 13.5936
+    },
+    {
+      "country": "TH",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 1014.0507
+    },
+    {
+      "country": "TH",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 18.241
+    },
+    {
+      "country": "TH",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 989.828
+    },
+    {
+      "country": "TH",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 5.4785
+    },
+    {
+      "country": "TH",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 918.1354
+    },
+    {
+      "country": "TH",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 9.4341
+    },
+    {
+      "country": "TH",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 888.2848
+    },
+    {
+      "country": "TH",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 31.6499
+    },
+    {
+      "country": "TH",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 907.9915
+    },
+    {
+      "country": "TN",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TN",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "TR",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 5.9677
+    },
+    {
+      "country": "TR",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 566.7981
+    },
+    {
+      "country": "TR",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 16.3857
+    },
+    {
+      "country": "TR",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 596.2029
+    },
+    {
+      "country": "TR",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 15.2774
+    },
+    {
+      "country": "TR",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 601.9897
+    },
+    {
+      "country": "TR",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 12.8267
+    },
+    {
+      "country": "TR",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 720.3407
+    },
+    {
+      "country": "TR",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 13.8452
+    },
+    {
+      "country": "TR",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 596.0403
+    },
+    {
+      "country": "TR",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 16.0333
+    },
+    {
+      "country": "TR",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 725.238
+    },
+    {
+      "country": "TR",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 14.5613
+    },
+    {
+      "country": "TR",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 705.6625
+    },
+    {
+      "country": "TR",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 15.2774
+    },
+    {
+      "country": "TR",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 691.8609
+    },
+    {
+      "country": "TR",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 4.9333
+    },
+    {
+      "country": "TR",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 682.0077
+    },
+    {
+      "country": "TR",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 11.4581
+    },
+    {
+      "country": "TR",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 639.0813
+    },
+    {
+      "country": "TR",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 5.6733
+    },
+    {
+      "country": "TR",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 597.722
+    },
+    {
+      "country": "TR",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 9.3097
+    },
+    {
+      "country": "TR",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 702.7971
+    },
+    {
+      "country": "TW",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 3.6522
+    },
+    {
+      "country": "TW",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 889.5444
+    },
+    {
+      "country": "TW",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 7.188
+    },
+    {
+      "country": "TW",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 706.9229
+    },
+    {
+      "country": "TW",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 2.6377
+    },
+    {
+      "country": "TW",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 860.1047
+    },
+    {
+      "country": "TW",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 1.0483
+    },
+    {
+      "country": "TW",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 816.8307
+    },
+    {
+      "country": "TW",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 1.8261
+    },
+    {
+      "country": "TW",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 648.4647
+    },
+    {
+      "country": "TW",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 4.6123
+    },
+    {
+      "country": "TW",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 879.2838
+    },
+    {
+      "country": "TW",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 4.6668
+    },
+    {
+      "country": "TW",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 874.2318
+    },
+    {
+      "country": "TW",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 6.4924
+    },
+    {
+      "country": "TW",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 776.4508
+    },
+    {
+      "country": "TW",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 2.9353
+    },
+    {
+      "country": "TW",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 717.2016
+    },
+    {
+      "country": "TW",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 1.0145
+    },
+    {
+      "country": "TW",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 573.1677
+    },
+    {
+      "country": "TW",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 5.8702
+    },
+    {
+      "country": "TW",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 831.0972
+    },
+    {
+      "country": "TW",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 4.0577
+    },
+    {
+      "country": "TW",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 730.6711
+    },
+    {
+      "country": "US",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 4320.0968
+    },
+    {
+      "country": "US",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 6940.7742
+    },
+    {
+      "country": "US",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 4638.5714
+    },
+    {
+      "country": "US",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 6397.5
+    },
+    {
+      "country": "US",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 4480.4516
+    },
+    {
+      "country": "US",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 6153.2258
+    },
+    {
+      "country": "US",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 4321.1333
+    },
+    {
+      "country": "US",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 6300.1
+    },
+    {
+      "country": "US",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 4099.0323
+    },
+    {
+      "country": "US",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 6611.3226
+    },
+    {
+      "country": "US",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 4278.6
+    },
+    {
+      "country": "US",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 6439.5333
+    },
+    {
+      "country": "US",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 3938.3548
+    },
+    {
+      "country": "US",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 6743.5161
+    },
+    {
+      "country": "US",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 3990.9677
+    },
+    {
+      "country": "US",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 6813.7419
+    },
+    {
+      "country": "US",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 4809.9333
+    },
+    {
+      "country": "US",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 7051.2667
+    },
+    {
+      "country": "US",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 4502.4516
+    },
+    {
+      "country": "US",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 6257.4839
+    },
+    {
+      "country": "US",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 4299.7667
+    },
+    {
+      "country": "US",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 6061.7
+    },
+    {
+      "country": "US",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 4510.2903
+    },
+    {
+      "country": "US",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 6749.8387
+    },
+    {
+      "country": "VE",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 576.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 0.0
+    },
+    {
+      "country": "VE",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 0.0
+    }
+  ]
+}
