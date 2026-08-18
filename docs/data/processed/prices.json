@@ -1482,14 +1482,10 @@
       "name": "Europe Natural Gas (TTF proxy)",
       "unit": "USD/MMBtu",
       "frequency": "monthly",
-      "latest_value": 15.092,
-      "latest_date": "2026-06-01",
-      "change_pct": -6.57,
+      "latest_value": 17.93,
+      "latest_date": "2026-07-01",
+      "change_pct": 18.8,
       "history": [
-        {
-          "date": "2016-07-01",
-          "value": 4.3
-        },
         {
           "date": "2016-08-01",
           "value": 4.25
@@ -1965,6 +1961,10 @@
         {
           "date": "2026-06-01",
           "value": 15.092
+        },
+        {
+          "date": "2026-07-01",
+          "value": 17.93
         }
       ]
     },
