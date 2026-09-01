@@ -1974,14 +1974,10 @@
       "name": "US Regular Gasoline (retail, avg)",
       "unit": "USD/gallon",
       "frequency": "weekly",
-      "latest_value": 4.085,
-      "latest_date": "2026-08-24",
-      "change_pct": 0.89,
+      "latest_value": 4.071,
+      "latest_date": "2026-08-31",
+      "change_pct": -0.34,
       "history": [
-        {
-          "date": "2024-05-13",
-          "value": 3.608
-        },
         {
           "date": "2024-05-20",
           "value": 3.584
@@ -2457,6 +2453,10 @@
         {
           "date": "2026-08-24",
           "value": 4.085
+        },
+        {
+          "date": "2026-08-31",
+          "value": 4.071
         }
       ]
     },
@@ -2466,14 +2466,10 @@
       "name": "US Diesel (retail, avg)",
       "unit": "USD/gallon",
       "frequency": "weekly",
-      "latest_value": 5.652,
-      "latest_date": "2026-08-24",
-      "change_pct": 3.63,
+      "latest_value": 5.599,
+      "latest_date": "2026-08-31",
+      "change_pct": -0.94,
       "history": [
-        {
-          "date": "2024-05-13",
-          "value": 3.848
-        },
         {
           "date": "2024-05-20",
           "value": 3.789
@@ -2949,6 +2945,10 @@
         {
           "date": "2026-08-24",
           "value": 5.652
+        },
+        {
+          "date": "2026-08-31",
+          "value": 5.599
         }
       ]
     }
