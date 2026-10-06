@@ -5,6 +5,10 @@
     "frequency": "weekly",
     "observations": [
       {
+        "date": "2026-10-05",
+        "value": 4.354
+      },
+      {
         "date": "2026-09-28",
         "value": 4.465
       },
@@ -7527,6 +7531,10 @@
     "unit": "USD/gallon",
     "frequency": "weekly",
     "observations": [
+      {
+        "date": "2026-10-05",
+        "value": 6.199
+      },
       {
         "date": "2026-09-28",
         "value": 6.382
