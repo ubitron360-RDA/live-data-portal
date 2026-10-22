@@ -1,0 +1,26 @@
+{
+  "DCOILWTICO": {
+    "name": "WTI Crude Oil",
+    "unit": "USD/barrel",
+    "frequency": "daily",
+    "observations": []
+  },
+  "DCOILBRENTEU": {
+    "name": "Brent Crude Oil",
+    "unit": "USD/barrel",
+    "frequency": "daily",
+    "observations": []
+  },
+  "DHHNGSP": {
+    "name": "Henry Hub Natural Gas",
+    "unit": "USD/MMBtu",
+    "frequency": "daily",
+    "observations": []
+  },
+  "PNGASEUUSDM": {
+    "name": "Europe Natural Gas (TTF proxy)",
+    "unit": "USD/MMBtu",
+    "frequency": "monthly",
+    "observations": []
+  }
+}
