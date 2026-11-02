@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-01T21:36:24.558046+00:00",
+  "generated_at": "2026-11-02T03:57:54.909363+00:00",
   "sources": {
     "fred": {
-      "last_updated": "2026-11-01",
+      "last_updated": "2026-11-02",
       "available": true
     },
     "eia": {
-      "last_updated": "2026-11-01",
+      "last_updated": "2026-11-02",
       "available": true
     },
     "jodi": {
-      "last_updated": "2026-11-01",
+      "last_updated": "2026-11-02",
       "available": true
     },
     "comtrade": {
