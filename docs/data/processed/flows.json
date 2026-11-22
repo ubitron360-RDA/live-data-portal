@@ -52,16 +52,16 @@
         "value": 550.0107
       },
       {
+        "country_code": "MX",
+        "country": "Mexico",
+        "period": "2025-12",
+        "value": 383.0023
+      },
+      {
         "country_code": "AU",
         "country": "Australia",
         "period": "2025-12",
         "value": 230.1342
-      },
-      {
-        "country_code": "MY",
-        "country": "Malaysia",
-        "period": "2025-12",
-        "value": 193.3559
       }
     ],
     "top_importers": [

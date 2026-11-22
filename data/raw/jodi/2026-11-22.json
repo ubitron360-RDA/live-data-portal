@@ -5501,6 +5501,150 @@
       "value": 0.0
     },
     {
+      "country": "MX",
+      "period": "2025-01",
+      "flow": "TOTEXPSB",
+      "value": 562.7352
+    },
+    {
+      "country": "MX",
+      "period": "2025-01",
+      "flow": "TOTIMPSB",
+      "value": 21.1143
+    },
+    {
+      "country": "MX",
+      "period": "2025-02",
+      "flow": "TOTEXPSB",
+      "value": 753.0561
+    },
+    {
+      "country": "MX",
+      "period": "2025-02",
+      "flow": "TOTIMPSB",
+      "value": 28.1581
+    },
+    {
+      "country": "MX",
+      "period": "2025-03",
+      "flow": "TOTEXPSB",
+      "value": 660.2094
+    },
+    {
+      "country": "MX",
+      "period": "2025-03",
+      "flow": "TOTIMPSB",
+      "value": 25.6731
+    },
+    {
+      "country": "MX",
+      "period": "2025-04",
+      "flow": "TOTEXPSB",
+      "value": 658.878
+    },
+    {
+      "country": "MX",
+      "period": "2025-04",
+      "flow": "TOTIMPSB",
+      "value": 24.5454
+    },
+    {
+      "country": "MX",
+      "period": "2025-05",
+      "flow": "TOTEXPSB",
+      "value": 658.5452
+    },
+    {
+      "country": "MX",
+      "period": "2025-05",
+      "flow": "TOTIMPSB",
+      "value": 23.2737
+    },
+    {
+      "country": "MX",
+      "period": "2025-06",
+      "flow": "TOTEXPSB",
+      "value": 680.4967
+    },
+    {
+      "country": "MX",
+      "period": "2025-06",
+      "flow": "TOTIMPSB",
+      "value": 30.7437
+    },
+    {
+      "country": "MX",
+      "period": "2025-07",
+      "flow": "TOTEXPSB",
+      "value": 647.609
+    },
+    {
+      "country": "MX",
+      "period": "2025-07",
+      "flow": "TOTIMPSB",
+      "value": 30.7117
+    },
+    {
+      "country": "MX",
+      "period": "2025-08",
+      "flow": "TOTEXPSB",
+      "value": 657.1187
+    },
+    {
+      "country": "MX",
+      "period": "2025-08",
+      "flow": "TOTIMPSB",
+      "value": 24.9533
+    },
+    {
+      "country": "MX",
+      "period": "2025-09",
+      "flow": "TOTEXPSB",
+      "value": 594.5133
+    },
+    {
+      "country": "MX",
+      "period": "2025-09",
+      "flow": "TOTIMPSB",
+      "value": 25.5371
+    },
+    {
+      "country": "MX",
+      "period": "2025-10",
+      "flow": "TOTEXPSB",
+      "value": 561.071
+    },
+    {
+      "country": "MX",
+      "period": "2025-10",
+      "flow": "TOTIMPSB",
+      "value": 25.1932
+    },
+    {
+      "country": "MX",
+      "period": "2025-11",
+      "flow": "TOTEXPSB",
+      "value": 561.1027
+    },
+    {
+      "country": "MX",
+      "period": "2025-11",
+      "flow": "TOTIMPSB",
+      "value": 26.7768
+    },
+    {
+      "country": "MX",
+      "period": "2025-12",
+      "flow": "TOTEXPSB",
+      "value": 383.0023
+    },
+    {
+      "country": "MX",
+      "period": "2025-12",
+      "flow": "TOTIMPSB",
+      "value": 25.4332
+    },
+    {
       "country": "MY",
       "period": "2025-01",
       "flow": "TOTEXPSB",
@@ -6229,18 +6373,6 @@
     {
       "country": "PE",
       "period": "2025-01",
-      "flow": "TOTEXPSB",
-      "value": 32.3543
-    },
-    {
-      "country": "PE",
-      "period": "2025-01",
-      "flow": "TOTIMPSB",
-      "value": 201.5851
-    },
-    {
-      "country": "PE",
-      "period": "2025-01",
       "flow": "TOTIMPSB",
       "value": 201.5851
     },
@@ -6249,18 +6381,6 @@
       "period": "2025-02",
       "flow": "TOTEXPSB",
       "value": 53.82
-    },
-    {
-      "country": "PE",
-      "period": "2025-02",
-      "flow": "TOTEXPSB",
-      "value": 53.82
-    },
-    {
-      "country": "PE",
-      "period": "2025-02",
-      "flow": "TOTIMPSB",
-      "value": 133.9204
     },
     {
       "country": "PE",
@@ -6277,18 +6397,6 @@
     {
       "country": "PE",
       "period": "2025-03",
-      "flow": "TOTEXPSB",
-      "value": 20.0963
-    },
-    {
-      "country": "PE",
-      "period": "2025-03",
-      "flow": "TOTIMPSB",
-      "value": 149.0292
-    },
-    {
-      "country": "PE",
-      "period": "2025-03",
       "flow": "TOTIMPSB",
       "value": 149.0292
     },
@@ -6297,18 +6405,6 @@
       "period": "2025-04",
       "flow": "TOTEXPSB",
       "value": 20.7661
-    },
-    {
-      "country": "PE",
-      "period": "2025-04",
-      "flow": "TOTEXPSB",
-      "value": 20.7661
-    },
-    {
-      "country": "PE",
-      "period": "2025-04",
-      "flow": "TOTIMPSB",
-      "value": 133.6576
     },
     {
       "country": "PE",
@@ -6325,18 +6421,6 @@
     {
       "country": "PE",
       "period": "2025-05",
-      "flow": "TOTEXPSB",
-      "value": 16.2573
-    },
-    {
-      "country": "PE",
-      "period": "2025-05",
-      "flow": "TOTIMPSB",
-      "value": 129.9416
-    },
-    {
-      "country": "PE",
-      "period": "2025-05",
       "flow": "TOTIMPSB",
       "value": 129.9416
     },
@@ -6345,18 +6429,6 @@
       "period": "2025-06",
       "flow": "TOTEXPSB",
       "value": 19.6992
-    },
-    {
-      "country": "PE",
-      "period": "2025-06",
-      "flow": "TOTEXPSB",
-      "value": 19.6992
-    },
-    {
-      "country": "PE",
-      "period": "2025-06",
-      "flow": "TOTIMPSB",
-      "value": 40.2661
     },
     {
       "country": "PE",
