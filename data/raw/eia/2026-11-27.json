@@ -7560,6 +7560,14 @@
     "frequency": "weekly",
     "observations": [
       {
+        "date": "2026-11-23",
+        "value": 5.695
+      },
+      {
+        "date": "2026-11-16",
+        "value": 5.937
+      },
+      {
         "date": "2026-11-09",
         "value": 6.127
       },

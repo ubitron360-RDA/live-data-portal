@@ -2466,18 +2466,10 @@
       "name": "US Diesel (retail, avg)",
       "unit": "USD/gallon",
       "frequency": "weekly",
-      "latest_value": 6.127,
-      "latest_date": "2026-11-09",
-      "change_pct": -2.62,
+      "latest_value": 5.695,
+      "latest_date": "2026-11-23",
+      "change_pct": -4.08,
       "history": [
-        {
-          "date": "2024-07-29",
-          "value": 3.768
-        },
-        {
-          "date": "2024-08-05",
-          "value": 3.755
-        },
         {
           "date": "2024-08-12",
           "value": 3.704
@@ -2949,6 +2941,14 @@
         {
           "date": "2026-11-09",
           "value": 6.127
+        },
+        {
+          "date": "2026-11-16",
+          "value": 5.937
+        },
+        {
+          "date": "2026-11-23",
+          "value": 5.695
         }
       ]
     }
